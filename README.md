@@ -34,6 +34,9 @@ This project focuses on analyzing key metrics in the **hospitality industry** us
 
 ## 🎯 Conclusion
 This project helps identify operational efficiencies, optimize pricing strategies, and understand customer preferences across various booking platforms.
+---
+
+## 📸 Dashboard Screenshots
 
 ![Hospitality](https://github.com/user-attachments/assets/5fed46c4-28f2-4b68-9a51-e622ff2f3a58)
 
